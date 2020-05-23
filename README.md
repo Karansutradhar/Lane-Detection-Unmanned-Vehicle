@@ -1,5 +1,3 @@
-ENPM673: Perception for Autonomous Robotics Project 2
-
 #### Instructions to run the program for Project 2
 file name : GammaCorrection.py
 file name : LaneDetection.py
